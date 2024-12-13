@@ -1,0 +1,64 @@
+.uber{
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 12px 15px;
+  cursor: pointer;
+}
+
+.Amazon{
+  color: black;
+  background-color: rgb(255, 216, 20);
+  cursor: pointer;
+  padding: 10px 40px;
+  border: none;
+  border-radius: 30px;
+}
+
+.github{
+  background-color: rgb(46, 164, 79);
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  color: white;
+  font-weight: bold;
+  padding: 10px 15px;
+}
+
+.bootstrap_start{
+  background-color: rgb(121, 82, 179);
+  color: white;
+  font-weight: bold;
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
+  padding: 10px 15px;
+}
+
+.bootstrap{
+  background-color: white;
+  color: rgb(108, 117, 125);
+  border: solid 1px rgb(108, 117, 125);
+  border-radius: 4px;
+  padding: 9px 15px;
+  margin-left: 5px;
+  font-weight: bold;
+}
+
+.Linkedin{
+  background-color: rgb(10, 102, 194);
+  border: none;
+  padding: 10px 20px;
+  border-radius: 20px;
+  color: white;
+  font-weight: bold;
+}
+
+.Linkedin_save{
+  background-color: white;
+  border: solid 1px rgb(10, 102, 194);
+  border-radius: 18px;
+  padding: 10px 15px;
+  color: rgb(10, 102, 194);
+  font-weight: bold;
+}
