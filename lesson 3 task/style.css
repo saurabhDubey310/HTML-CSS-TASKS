@@ -49,7 +49,13 @@
   border: none;
   cursor: pointer;
   padding: 10px 15px;
+  transition: background-color 0.2s;
 }
+
+.bootstrap_start:hover{
+background-color: rgb(117, 61, 202);
+}
+
 
 .bootstrap{
   background-color: white;
@@ -60,7 +66,12 @@
   margin-left: 5px;
   font-weight: bold;
   cursor: pointer;
+  transition: color 0.2s, background-color 0.2s;
+}
 
+.bootstrap:hover{
+  background-color: rgb(108, 117, 125);
+  color: white;
 }
 
 .Linkedin{
@@ -71,7 +82,11 @@
   color: white;
   font-weight: bold;
   cursor: pointer;
+  transition: background-color 0.2s;
+}
 
+.Linkedin:hover{
+  background-color: rgb(7, 80, 152);
 }
 
 .Linkedin_save{
@@ -82,4 +97,35 @@
   color: rgb(10, 102, 194);
   font-weight: bold;
   cursor: pointer;
+  transition: background-color 0.2s, outline 0.2s;
+}
+
+.Linkedin_save:hover{
+  background-color: rgb(185, 211, 236);
+  outline: solid 2px rgb(10, 102, 194);
+  /* Important */
+}
+
+
+div a{
+  color: green;
+}
+
+div h4{
+  color: green;
+}
+
+.Buy{
+  cursor: pointer;
+  background-color: orange;
+  color: black;
+  border: none;
+  border-radius: 35px;
+  padding: 10px 40px;
+  margin-left: 10px;
+  transition: opacity 0.2s;
+}
+
+.Buy:hover{
+  opacity: 0.7;
 }
