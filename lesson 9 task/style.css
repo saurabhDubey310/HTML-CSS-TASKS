@@ -1,0 +1,137 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* .container{
+  background-color: red;
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+} */
+/* 
+.container{
+  border: solid 1px black;
+  width: 300px;
+ padding: 10px;
+  height: 100px;
+} */
+
+/* 
+.container{
+  width: 350px;
+  height: 130px;
+  padding: 10px;
+  background-color: rgb(44, 43, 43);
+  color: white;
+} */
+
+/* .container{
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.2);
+  width:460px;
+  padding: 10px;
+  border-radius: 5px;
+  
+}
+
+.rounded-cat{
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  object-fit: cover;
+  vertical-align: middle;
+}
+
+.tweet-search{  
+  vertical-align: middle;
+  border: none;
+  font-size: 20px;
+  margin-left: 10px;
+}
+
+.tweet-button{
+  background-color: rgb(18, 125, 240);
+  border: none;
+  color: white;
+  font-size: 20px;
+  padding-top: 15px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-bottom: 15px;
+  border-radius: 60px;
+  font-weight: bold;
+  vertical-align: middle;
+} */
+
+/* .container{
+  margin: 10px;
+  width: 200px;
+  box-shadow: 3px 3px 15px rgba(0, 0, 0, 0.4);
+  object-fit: cover;
+  display: inline-block;
+}
+
+.cat-image{
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.name{
+  font-weight: bold;
+  font-size: 20px;
+  padding: 5px 10px;
+}
+
+.friend{
+  font-size: 17px;
+  color: rgb(86, 85, 85);
+  padding: 10px;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.add{
+  background-color: rgb(32, 140, 240);
+  border: none;
+  padding: 10px 20px;
+  font-size: 15px;
+  margin-left: 10px;
+  color: white;
+  border-radius: 4px;
+  margin: 10px;
+} */
+
+.search {
+  width: 700px;
+  padding-left: 18px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-radius: 100px;
+  border: none;
+  font-size: 20px;
+  box-shadow: 3px 3px 9px rgba(0, 0, 0, 0.5);
+}
+
+.google-logo {
+  display: inline-block;
+  margin-bottom: 20px;
+}
+
+.container {
+  text-align: center;
+}
+
+.buttons {
+  padding-top: 30px;
+  border: none;
+}
+
+.primary,
+.secondary {
+  border: none;
+  padding: 20px;
+  margin: 10px;
+  font-size: 20px;
+  background-color: rgb(213, 209, 209);
+}
