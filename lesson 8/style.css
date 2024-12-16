@@ -1,0 +1,125 @@
+/* .input{
+  padding: 10px;
+  display: block;
+  margin-bottom: 10px;
+} */
+
+/* .button{
+  padding: 10px;
+} */
+
+/* .customer{
+  width: 200px;
+  display: inline-block;
+  vertical-align: middle; 
+}
+
+.search {
+  width: 500px;
+  padding-left: 18px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-radius: 100px;
+  border: none;
+  font-size: 20px;
+  box-shadow: 3px 3px 9px rgba(0, 0, 0, 0.5);
+  display: block;  
+}
+
+.google-logo {
+  display: inline-block; 
+  margin-bottom: 20px; 
+  margin-left: 75px;
+} */
+
+/* .first,.last{
+  padding: 10px;
+  font-size: 15px;
+  border-radius: 10px;
+  border: solid 1px grey;
+}
+
+.email{
+  padding: 10px;
+  font-size: 15px;
+  width: 390px;
+  border-radius: 10px;
+  border: solid 1px grey;
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+button{
+  background-color: rgb(41, 132, 243);
+  border: none;
+  color: white;
+  padding: 20px 170px;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 15px;
+} */
+
+.pickup,.destination{
+  background-color: rgb(217, 212, 212);
+  color:rgb(76, 75, 75);
+  border: none;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 20px;
+  padding-right: 50px;
+  display: block;
+  width: 300px;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.heading{
+  font-size: 50px;
+}
+
+.request{
+  color: white;
+  background-color: black;
+  border: none;
+  margin-right: 10px;
+  padding: 15px 20px;
+  font-size: 16px;
+}
+
+.schedule{
+  color: black;
+  background-color: rgb(222, 218, 218);
+  border: none;
+  padding: 15px 23px;
+  font-size: 16px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
